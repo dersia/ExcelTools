@@ -1,14 +1,15 @@
 # Translation in Excel with Microsoft Translator
 
+![](demosimple.gif)
 ![](Demo.gif)
 
 ## Requirements
-[Excel Custom Functions](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/core-concepts-office-add-ins)
-[Microsoft Translator APIKey and URL](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-info-overview)
+* [Excel Custom Functions](https://docs.microsoft.com/en-us/office/dev/add-ins/overview/core-concepts-office-add-ins)
+* [Microsoft Translator APIKey and URL](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/translator-info-overview)
 
 ### Microsoft Translator APIKey and URL
-[Create a Microsoft Translator Service in Azure and grab the api-key and url from it](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/quickstart-translate?pivots=programming-language-javascript#set-up)
-Open functions.ts and place both in the top of the file
+* [Create a Microsoft Translator Service in Azure and grab the api-key and url from it](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/quickstart-translate?pivots=programming-language-javascript#set-up)
+* Open functions.ts and place both in the top of the file
 
 ### Using Excel Desktop
 * Start the dev-server
